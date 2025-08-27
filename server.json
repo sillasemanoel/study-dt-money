@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "description": "Site Pessoal",
+      "price": 7000,
+      "category": "Produto para cliente",
+      "type": "income",
+      "createdAt": "2025-08-26T20:09:31.521Z",
+      "id": 1
+    }
+  ]
+}
